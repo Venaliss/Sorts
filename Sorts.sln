@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.34031.82
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка_Выбором", "Сортировка_Выбором\Сортировка_Выбором.csproj", "{AA87CF8F-BC60-42BA-9FE9-DDBB840B1303}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка_Вставками", "Сортировка_Вставками\Сортировка_Вставками.csproj", "{B7C600C9-CFCC-49AC-9EC3-957D30C10DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка_Пузырьком", "Сортировка_Пузырьком\Сортировка_Пузырьком.csproj", "{FD442D79-9F66-4482-9A93-72C366B91D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{FD10052A-E572-4909-99E6-A45DEAF8AD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CocktailSort", "CocktailSort\CocktailSort.csproj", "{B295C81B-8790-47B0-BC33-3D8022F917C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{988A0679-C676-4820-85FD-5BE530ADEE82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{AA87CF8F-BC60-42BA-9FE9-DDBB840B1303}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA87CF8F-BC60-42BA-9FE9-DDBB840B1303}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA87CF8F-BC60-42BA-9FE9-DDBB840B1303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7C600C9-CFCC-49AC-9EC3-957D30C10DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C600C9-CFCC-49AC-9EC3-957D30C10DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C600C9-CFCC-49AC-9EC3-957D30C10DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C600C9-CFCC-49AC-9EC3-957D30C10DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD442D79-9F66-4482-9A93-72C366B91D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD442D79-9F66-4482-9A93-72C366B91D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD442D79-9F66-4482-9A93-72C366B91D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD442D79-9F66-4482-9A93-72C366B91D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD10052A-E572-4909-99E6-A45DEAF8AD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD10052A-E572-4909-99E6-A45DEAF8AD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD10052A-E572-4909-99E6-A45DEAF8AD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD10052A-E572-4909-99E6-A45DEAF8AD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B295C81B-8790-47B0-BC33-3D8022F917C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B295C81B-8790-47B0-BC33-3D8022F917C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B295C81B-8790-47B0-BC33-3D8022F917C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B295C81B-8790-47B0-BC33-3D8022F917C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988A0679-C676-4820-85FD-5BE530ADEE82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988A0679-C676-4820-85FD-5BE530ADEE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988A0679-C676-4820-85FD-5BE530ADEE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988A0679-C676-4820-85FD-5BE530ADEE82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
